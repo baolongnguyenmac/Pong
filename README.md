@@ -1,4 +1,4 @@
-# Pong
+# Pong (Not mine :> This Pong belongs to zacharyvincze)
 
 ![Screenshot](/screenshots/pong.png)
 
